@@ -29,11 +29,7 @@ This project demonstrates a basic "Hello World" agent built using the OpenAI Age
 
 3.  **Install dependencies:**
 
-    Use UV to sync the project's dependencies:
-
-    ```bash
-    uv sync
-    ```
+    Use UV to sync the project's dependencies
 
 ## Running the Agent
 
